@@ -16,7 +16,7 @@ const AproposPage = ({data}) => (
         
       <SEO title="about" />
       <h1 style={{ textAlign: "center" }}>About Me!</h1>
-      <p style={{ marginLeft: "250px" }}>Une "web developer" portugais qu'essaye de vivre son reve de travailer dans cette matier! pls aide moi! :D</p>
+      <p style={{ marginLeft: "250px" }}>Une "web developer" portugais qui essaye de reussir sa certif!</p>
     </Layout>
   )
   
