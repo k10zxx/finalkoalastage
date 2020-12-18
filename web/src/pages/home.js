@@ -39,7 +39,7 @@ const HomePage = ({data}) => (
       <li style={{ listStyleType: "none"}}>
         <h3 style = {{ textTransform: "uppercase" }}> {project.title} </h3>
         <img src={project.image.asset.fluid.src} alt='' />
-        <p> Bienvenue je vou laisse regarder cette fantastic Koala qui dort! </p>
+        <p> Bienvenue je vous laisse regarder cette fantastic Koala qui dort! </p>
       </li>
       ))}
     </ul>
