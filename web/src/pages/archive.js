@@ -20,7 +20,7 @@ export const query = graphql`
           id
           publishedAt
           mainImage {
-            ...SanityImage
+
             alt
           }
           title
